@@ -1,10 +1,12 @@
 # Microsoft Learn Modules
 
+📜 My Microsoft Learn Profile : [View Profile](https://docs.microsoft.com/en-us/users/shubhadeepmandal394/)
+
 ### Module 1
 
 > Discover the role of Python in Space Exploration
 
-```text
+```
 This learning path introduces you to the world of Python. But the goal is not to learn Python, the goal is to understand how Python plays a role in the innovative solutions that NASA creates. Through the lens of space discovery, this learning path could ignite a passion to persistently learn, discover, and create so that you too can one day help us all understand a little more about the world beyond our Earth.
 ```
 
