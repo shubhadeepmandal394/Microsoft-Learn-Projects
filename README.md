@@ -22,8 +22,8 @@ Module Link : [https://bit.ly/34712RP](https://bit.ly/34712RP)
 > Classify Space Rocks by using Python and Artificial Intelligence
 
 ```
-This learning path gives you a view into the worlds of AI and space. Learn how to create an AI model
-that can classify the type of space rock in a random photo.
+This learning path gives you a view into the worlds of AI and space. Learn how to create an AI model that
+can classify the type of space rock in a random photo.
 ```
 
 Module Link : [https://bit.ly/33aSQAN](https://bit.ly/33aSQAN)
