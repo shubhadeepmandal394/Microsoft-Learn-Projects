@@ -4,7 +4,7 @@
 
 > Discover the role of Python in Space Exploration
 
-```
+```text
 This learning path introduces you to the world of Python. But the goal is not to learn Python, the goal is to understand how Python plays a role in the innovative solutions that NASA creates. Through the lens of space discovery, this learning path could ignite a passion to persistently learn, discover, and create so that you too can one day help us all understand a little more about the world beyond our Earth.
 ```
 
@@ -23,3 +23,9 @@ This learning path gives you a view into the worlds of AI and space. Learn how t
 Module Link : [https://bit.ly/34712RP](https://bit.ly/34712RP)
 
 <hr>
+
+### More Modules to Come (Work in Progress)
+
+<hr>
+
+Got to know something new ? [Support Me](https://paypal.me/shubhadeepmandal394?locale.x=en_GB) so that I can continue contributing new stuffs to the society everyday 😇
