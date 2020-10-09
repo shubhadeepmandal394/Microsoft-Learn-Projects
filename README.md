@@ -4,7 +4,6 @@
 
 ### Module 1
 
-> Discover the role of Python in Space Exploration
 ```diff
 + Discover the role of Python in Space Exploration
 ```
@@ -20,7 +19,9 @@ Microsoft Learn Module Link : [https://bit.ly/34712RP](https://bit.ly/34712RP)
 
 ### Module 2
 
-> Classify Space Rocks by using Python and Artificial Intelligence
+```Diff
++ Classify Space Rocks by using Python and Artificial Intelligence
+```
 
 ```Diff
 This learning path gives you a view into the worlds of AI and space. Learn how to create an AI model that
@@ -31,7 +32,9 @@ Microsoft Learn Module Link : [https://bit.ly/33aSQAN](https://bit.ly/33aSQAN)
 
 ### Module 3
 
-> Predict Rocket Launch delays with Machine Learning
+```Diff
++ Predict Rocket Launch delays with Machine Learning
+```
 
 ```
 This learning path introduces you to the world of machine learning. You'll take a real-life problem that
