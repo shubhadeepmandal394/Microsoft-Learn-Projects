@@ -18,8 +18,6 @@ that you too can one day help us all understand a little more about the world be
 
 Microsoft Learn Module Link : [https://bit.ly/34712RP](https://bit.ly/34712RP)
 
-<hr>
-
 ### Module 2
 
 > Classify Space Rocks by using Python and Artificial Intelligence
@@ -30,8 +28,6 @@ can classify the type of space rock in a random photo.
 ```
 
 Microsoft Learn Module Link : [https://bit.ly/33aSQAN](https://bit.ly/33aSQAN)
-
-<hr>
 
 ### Module 3
 
@@ -46,10 +42,6 @@ of life.
 
 Microsoft Learn Module Link : [https://bit.ly/2HBLePn](https://bit.ly/2HBLePn)
 
-<hr>
-
 ### More Modules to Come (Stay Tuned)
-
-<hr>
 
 Got to know something new ? [Support Me](https://paypal.me/shubhadeepmandal394?locale.x=en_GB) so that I can continue contributing new stuffs to the society everyday 😇
