@@ -36,7 +36,7 @@ Microsoft Learn Module Link : [https://bit.ly/33aSQAN](https://bit.ly/33aSQAN)
 + Predict Rocket Launch delays with Machine Learning
 ```
 
-```
+```Diff
 ! This learning path introduces you to the world of machine learning. You'll take a real-life problem that
 ! NASA faces and apply machine learning to solve it. The goal is to get students excited and curious to
 ! discover how machine learning could help solve other problems in space discovery and different aspects
