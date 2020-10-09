@@ -45,7 +45,7 @@ Module Link : [https://bit.ly/2HBLePn](https://bit.ly/2HBLePn)
 
 <hr>
 
-### More Modules to Come (Work in Progress)
+### More Modules to Come (Stay Tuned)
 
 <hr>
 
