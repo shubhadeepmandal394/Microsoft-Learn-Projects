@@ -6,7 +6,7 @@
 
 > Discover the role of Python in Space Exploration
 ```diff
- Discover the role of Python in Space Exploration
++ Discover the role of Python in Space Exploration
 ```
 
 ```Diff
