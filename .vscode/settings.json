@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\Shubhadeep Mandal\\Anaconda3v2020\\envs\\myenv\\python.exe"
+    "python.pythonPath": "C:\\Users\\Shubhadeep Mandal\\Anaconda3v2020\\envs\\myenv\\python.exe",
+    "python.dataScience.jupyterServerURI": "local",
+    "C_Cpp.errorSquiggles": "Disabled"
 }
